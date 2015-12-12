@@ -1,1 +1,4 @@
-Explain what a branch is, in your own words
+In git a branch can be made after any commit. It will hold the same history as the original (MASTER) branch but changes can be made and committed without effecting the MASTER. This is useful because it allows a developer to try out different features or methods and if they work well the new branch can be merged with the MASTER branch. However if they do not work or the project takes a different direction the branch can be deleted and work can continue from before the change was made. 
+
+
+(Explain what a branch is, in your own words)
