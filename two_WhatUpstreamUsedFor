@@ -1,1 +1,4 @@
-Explain what the 'upstream' remote is usually used for, in your own words
+The ‘upstream’ remote is usually used to link to the original repository from which your fork was cloned so that it can be pushed to and pulled from. 
+
+
+(Explain what the 'upstream' remote is usually used for, in your own words)
