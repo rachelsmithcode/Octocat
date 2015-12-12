@@ -1,1 +1,7 @@
-Explain what git clone does, in your own words
+Git clone allows you to copy or clone a repository from Git Hub. This may be a repository of your own that you have deleted or need to access from a new device but it may also be a repository belonging to another Git user that you would like to use or help with.
+
+When you use “git clone” it essentially creates a new directory, initialises git in that directory adds a remote (origin) for you and pulls down the content from git. When using “git clone” it is important to remember that the directory folder will be created automatically so you want to be in the parent directory for your project when you run the command to avoid unintentional double nesting, (a directory inside another directory of the same name). 
+
+
+(Explain what git clone does, in your own words)
+
